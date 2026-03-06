@@ -1,0 +1,11 @@
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/rebuild_cache.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/edit_cache.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/running.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/icar.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/collection.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/camera.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/img2video.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/boot.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/calibration.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/imging.dir
+/root/workspace/icar_autopilot_2025th/build/CMakeFiles/detection.dir
